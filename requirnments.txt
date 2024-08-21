@@ -1,0 +1,5 @@
+laser
+torch
+python-dotenv
+transformers
+pathlib
